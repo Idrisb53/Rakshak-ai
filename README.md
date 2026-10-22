@@ -5,6 +5,20 @@
 ### India's Personal Cyber Guardian
 
 **A security-awareness web application concept for examining suspicious links, QR codes, websites, mobile apps, and messages.**
+AI-powered cybersecurity threat detection and analysis platform.
+
+<p align="center">
+  <a href="https://idris4hack.lovable.app">
+    <img src="https://img.shields.io/badge/🚀_LIVE_DEMO-Open_Rakshak_AI-00C853?style=for-the-badge" alt="Open Rakshak AI Live Demo">
+  </a>
+  <a href="https://github.com/Idrisb53/Rakshak-ai">
+    <img src="https://img.shields.io/badge/GitHub-Source_Code-181717?style=for-the-badge&logo=github" alt="View Source Code on GitHub">
+  </a>
+</p>
+
+Try the project: Open Rakshak AI
+
+Source code: GitHub Repository
 
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-Visit%20Rakshak%20AI-14b8a6?style=for-the-badge&logo=googlechrome&logoColor=white)](https://idris4hack.lovable.app)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.x-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
