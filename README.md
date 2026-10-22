@@ -13,7 +13,9 @@
 
 <br />
 
-<img src="src/assets/rakshak-hero.jpg" alt="Rakshak AI cybersecurity hero artwork" width="780" />
+<p align="center">
+  <img src="docs/rakshak-dashboard.png" alt="Rakshak AI Dashboard" width="100%">
+</p>
 
 *Built by [IDRIS4HACK](https://github.com/)*
 
